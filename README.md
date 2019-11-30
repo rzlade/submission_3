@@ -3,7 +3,9 @@
 Aplikasi mengenai macam-macam olahraga populer di seluruh dunia
 
 ## Screenshot
-
+![Homepage](images/Screenshot_2019-11-30-13-33-46-231_com.example.submission_3.png)
+![Detail Chess](images/Screenshot_2019-11-30-13-38-47-136_com.example.submission_3.png)
+![Detail Football](images/Screenshot_2019-11-30-13-33-46-231_com.example.submission_3.png)
 
 ## Teknologi Yang Digunakan
 Flutter:
